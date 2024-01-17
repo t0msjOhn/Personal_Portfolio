@@ -1,9 +1,9 @@
 {
   "name": "my_portfolio",
   "version": "0.1.0",
-  "homepage":"https://t0msjOhn.github.io/myPortfolio.git",
+  "homepage": "https://github.com/t0msjOhn/Personal_Portfolio.git",
   "private": true,
-   "dependencies": {
+  "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
