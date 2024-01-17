@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/t0msjOhn/Personal_Portfolio.git/static/css/main.e57d0c05.css",
+    "main.js": "/t0msjOhn/Personal_Portfolio.git/static/js/main.bb64a6a0.js",
+    "static/js/787.128fc6e9.chunk.js": "/t0msjOhn/Personal_Portfolio.git/static/js/787.128fc6e9.chunk.js",
+    "static/media/contactImg.png": "/t0msjOhn/Personal_Portfolio.git/static/media/contactImg.f93aab7b3e86bf7dc1f2.png",
+    "static/media/mySelf-removebg-preview.jpg": "/t0msjOhn/Personal_Portfolio.git/static/media/mySelf-removebg-preview.129a1ce70ed70546cb3e.jpg",
+    "index.html": "/t0msjOhn/Personal_Portfolio.git/index.html",
+    "main.e57d0c05.css.map": "/t0msjOhn/Personal_Portfolio.git/static/css/main.e57d0c05.css.map",
+    "main.bb64a6a0.js.map": "/t0msjOhn/Personal_Portfolio.git/static/js/main.bb64a6a0.js.map",
+    "787.128fc6e9.chunk.js.map": "/t0msjOhn/Personal_Portfolio.git/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e57d0c05.css",
+    "static/js/main.bb64a6a0.js"
+  ]
+}
